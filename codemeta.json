@@ -1,0 +1,25 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Neurociencia del Desarrollo y Plasticidad Cerebral: Datos Longitudinales (0-30 a\u00f1os)",
+  "identifier": "10.5281/zenodo.18984815",
+  "url": "https://doi.org/10.5281/zenodo.18984815",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Mois\u00e9s",
+      "familyName": "de la Serna Tuya",
+      "@id": "https://orcid.org/0000-0002-8401-8018"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "brain development",
+    "neuroplasticity",
+    "cortical thickness",
+    "gray matter",
+    "MRI",
+    "longitudinal study",
+    "neuroscience"
+  ]
+}
