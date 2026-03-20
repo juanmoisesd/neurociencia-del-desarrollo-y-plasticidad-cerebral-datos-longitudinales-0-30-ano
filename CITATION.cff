@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below."
+type: dataset
+title: "Neurociencia del Desarrollo y Plasticidad Cerebral: Datos Longitudinales (0-30 años)"
+authors:
+  - family-names: "de la Serna Tuya"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+doi: "10.5281/zenodo.18984815"
+url: "https://doi.org/10.5281/zenodo.18984815"
+repository-code: "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-datos-longitudinales-0-30-ano"
+license: CC0-1.0
+date-released: "2026-03-12"
+keywords:
+  - "brain development"
+  - "neuroplasticity"
+  - "cortical thickness"
+  - "gray matter"
+  - "MRI"
+  - "longitudinal study"
+  - "neuroscience"
