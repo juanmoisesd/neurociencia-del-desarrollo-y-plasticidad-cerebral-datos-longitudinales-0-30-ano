@@ -1,25 +1,50 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Neurociencia del Desarrollo y Plasticidad Cerebral: Datos Longitudinales (0-30 a\u00f1os)",
-  "identifier": "10.5281/zenodo.18984815",
-  "url": "https://doi.org/10.5281/zenodo.18984815",
+  "@type": "SoftwareSourceCode",
+  "name": "Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz",
+  "description": "Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz",
+  "url": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-datos-longitudinales-0-30-ano",
+  "codeRepository": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-datos-longitudinales-0-30-ano",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "brain development",
+    "brain-development",
+    "cc0",
+    "cortical-thickness",
+    "dataset",
+    "gray-matter",
+    "longitudinal-study",
+    "mri",
     "neuroplasticity",
-    "cortical thickness",
-    "gray matter",
-    "MRI",
-    "longitudinal study",
-    "neuroscience"
-  ]
+    "neuroscience",
+    "open-data",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
