@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-datos-longitudinales-0-30-ano/blob/main/schema.json",
+  "title": "Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz",
+  "description": "JSON Schema for the dataset: Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz",
+  "type": "object",
+  "version": "1.0.0",
+  "author": {
+    "name": "Juan Moisés de la Serna Tuya",
+    "orcid": "https://orcid.org/0000-0002-8401-8018"
+  },
+  "license": "CC0-1.0",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique row identifier"
+    },
+    "country": {
+      "type": "string",
+      "description": "Country or region name"
+    },
+    "year": {
+      "type": "integer",
+      "description": "Reference year",
+      "minimum": 1990,
+      "maximum": 2030
+    },
+    "value": {
+      "type": "number",
+      "description": "Primary metric value"
+    },
+    "unit": {
+      "type": "string",
+      "description": "Unit of measurement"
+    },
+    "source": {
+      "type": "string",
+      "description": "Original data source"
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Additional notes"
+    }
+  },
+  "required": [
+    "id",
+    "country",
+    "year",
+    "value"
+  ],
+  "additionalProperties": true
+}
