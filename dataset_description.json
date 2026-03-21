@@ -1,0 +1,175 @@
+{
+  "datasetVersion": {
+    "title": "Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz",
+    "description": "<p>Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz</p>",
+    "subject": [
+      "Computer and Information Science",
+      "Social Sciences",
+      "Medicine, Health and Life Sciences"
+    ],
+    "keyword": [
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "brain-development"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "cc0"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "cortical-thickness"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "dataset"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "gray-matter"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "longitudinal-study"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "mri"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "neuroplasticity"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "neuroscience"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "open-data"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "zenodo"
+          }
+        }
+      }
+    ],
+    "author": [
+      {
+        "authorName": {
+          "typeName": "authorName",
+          "value": "de la Serna Tuya, Juan"
+        },
+        "authorAffiliation": {
+          "typeName": "authorAffiliation",
+          "value": "Universidad Internacional de La Rioja (UNIR)"
+        },
+        "authorIdentifierScheme": {
+          "typeName": "authorIdentifierScheme",
+          "value": "ORCID"
+        },
+        "authorIdentifier": {
+          "typeName": "authorIdentifier",
+          "value": "0000-0002-8401-8018"
+        }
+      }
+    ],
+    "datasetContact": [
+      {
+        "datasetContactEmail": {
+          "typeName": "datasetContactEmail",
+          "value": "juanmoises.delaserna@unir.net"
+        },
+        "datasetContactName": {
+          "typeName": "datasetContactName",
+          "value": "Juan Moisés de la Serna Tuya"
+        }
+      }
+    ],
+    "dsDescription": [
+      {
+        "dsDescriptionValue": {
+          "typeName": "dsDescriptionValue",
+          "value": "Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz"
+        }
+      }
+    ],
+    "language": [
+      "Spanish",
+      "English"
+    ],
+    "kindOfData": [
+      "Dataset"
+    ],
+    "license": "CC0 1.0",
+    "distributor": [
+      {
+        "distributorName": {
+          "typeName": "distributorName",
+          "value": "GitHub"
+        },
+        "distributorURL": {
+          "typeName": "distributorURL",
+          "value": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-datos-longitudinales-0-30-ano"
+        }
+      }
+    ],
+    "distributionDate": "2026-03-20",
+    "depositor": "Juan Moisés de la Serna Tuya",
+    "dateOfDeposit": "2026-03-20"
+  }
+}
