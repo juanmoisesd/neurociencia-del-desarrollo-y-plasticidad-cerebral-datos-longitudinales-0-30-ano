@@ -1,0 +1,32 @@
+{
+  "wasGeneratedBy": {
+    "activity": "DataCompilation",
+    "agent": {
+      "type": "Person",
+      "name": "Juan Moisés de la Serna Tuya",
+      "orcid": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "startedAtTime": "2026-03-01T00:00:00Z",
+    "endedAtTime": "2026-03-20T00:00:00Z"
+  },
+  "entity": {
+    "type": "Dataset",
+    "name": "Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz",
+    "url": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-datos-longitudinales-0-30-ano",
+    "license": "CC0-1.0"
+  },
+  "wasDerivedFrom": {
+    "description": "Compiled from publicly available secondary sources",
+    "sources": [
+      "Public databases",
+      "Peer-reviewed literature",
+      "International organizations"
+    ]
+  },
+  "wasAttributedTo": {
+    "type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "orcid": "https://orcid.org/0000-0002-8401-8018"
+  }
+}
