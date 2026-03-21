@@ -1,5 +1,43 @@
-title: "Neurociencia del Desarrollo y Plasticidad Cerebral: Datos Lo"
-description: "Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor "
-author: "Juan Moisés de la Serna Tuya"
+# Jekyll configuration for GitHub Pages
+title: "neurociencia-del-desarrollo-y-plasticidad-cerebral-datos-longitudinales-0-30-ano"
+description: "Dataset longitudinal con métricas normativas de desarrollo cerebral desde el nacimiento hasta la edad adulta (0-30 años), por sexo. Variables: grosor cortical, volumen de materia gris, volumen de materia blanca, densidad sináptica, índice de mieliniz"
 url: "https://juanmoisesd.github.io"
 baseurl: "/neurociencia-del-desarrollo-y-plasticidad-cerebral-datos-longitudinales-0-30-ano"
+
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  linkedin: "https://www.linkedin.com/in/juanmoisesdelaserna/"
+  scopus: "26632846700"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+  email: "juanmoises.delaserna@unir.net"
+
+# SEO
+tagline: "Open Research Dataset"
+lang: "en"
+
+# Social
+twitter:
+  username: juanmoisesd
+  card: summary
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build
+theme: minima
+include:
+  - README.md
+  - GLOSSARY.md
+  - ABOUT_THE_AUTHOR.md
+  - CITATION_GUIDE.md
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
